@@ -24,3 +24,17 @@
   * MySQL
 * 系統：
   * Linux / Docker
+
+* Python Web Scraping - Google Maps
+  * Information of restaurants/attractions (with attractions defined according to the government's Tourism Information Database at https://data.gov.tw/dataset/7777)
+  * Reviews of restaurants/attractions
+* Data Cleaning
+  * Implemented using Pandas and numpy packages
+* Data Visualization
+  * Graphing using matplotlib / Seaborn / Plotly packages
+  * Creating interactive charts with Tableau
+* Interactive Maps
+  * Creating Travel Maps using Leaflet and OpenStreetMap
+* Natural Language Processing (NLP) - Training a Star Rating Classifier (1-5 stars)
+Using Huggingface's open-source Transformers to configure NLP training tasks
+Fine-tuning the RoBERTa pre-trained model (uer/roberta-base-finetuned-jd-full-chinese)
