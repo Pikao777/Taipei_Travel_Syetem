@@ -20,3 +20,7 @@
   * HTML / CSS / JavaScript 建構網頁
   * Python Web 框架： Django / Flask 雙版本
   * 網站部屬：AWS / GCP 雲端平台
+* 資料庫：
+  * MySQL
+* 系統：
+  * Linux / Docker
