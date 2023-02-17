@@ -24,7 +24,7 @@
   * MySQL
 * 系統：
   * Linux / Docker
-
+--------------------------------------------------------------
 * Python Web Scraping - Google Maps
   * Information of restaurants/attractions (with attractions defined according to the government's Tourism Information Database at https://data.gov.tw/dataset/7777)
   * Reviews of restaurants/attractions
